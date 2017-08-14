@@ -1,6 +1,6 @@
 # 虚拟机云桌面分配
 
-####创建云桌面用户
+#### 创建云桌面用户
 - 创建云桌面用户
  
  ![adduser](./image/manual/adduser1.png) 
